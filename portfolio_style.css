@@ -188,3 +188,20 @@ nav ul li a{
         transform: translateY(0px);
     }
 }
+
+/*-------------------About Me Style----------------------*/
+.aboutme-content{
+    background-color: rgba(129, 154, 91, 0.60);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.aboutme-content p{
+    margin: 10px 0 30px;
+    color: #e4d6a9;
+    animation-delay: .75s;
+}
+.last-p{
+    display: inline;
+}
